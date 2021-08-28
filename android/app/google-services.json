@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "602745816572",
+    "project_id": "robtorento",
+    "storage_bucket": "robtorento.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602745816572:android:73793ce966b0a3bb031e79",
+        "android_client_info": {
+          "package_name": "com.ireflect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602745816572-vtqc0vlh000j6k0uff7srk15rbs4ijdm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe0vL1WlYnbNdvY7ZYeGCMlS9oR2b4vsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602745816572-vtqc0vlh000j6k0uff7srk15rbs4ijdm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "602745816572-29v02lu95gll4otedqtsjb9h8pcu0f8k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ireflect"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
